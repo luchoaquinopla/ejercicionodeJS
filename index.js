@@ -30,7 +30,7 @@ app.get('/', (req, res) => {
       <div class="d-grid gap-2 d-md-flex justify-content-md-end">
         <input class="btn btn-primary btn-xl" type="submit" value="Submit">
       </div>
-    </form>Ñ
+    </form>
   `;
 
   // Verificar si hay datos guardados en la URL
